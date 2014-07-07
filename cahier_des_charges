@@ -1,0 +1,58 @@
+------------------------------------------------------------------------
+Vous pouvez modifier n'importe quelle phrase Dans ce document.
+Si vous voulez ajouter quelque choses ou bien supprimer quelque chose.
+Il faut just importer le projet en eclipse puis faite vos modification et finalement
+click droit sur le dossier de projet.
+Cllicker sur team.
+Commit pour commenter la modification que vous avez fait .
+puis push pour uploader le projet sur le depo.
+---------------------------------------------------------------------------
+
+Le cahier des charge:
+
+
+
+
+
+1. description général du projet 
+
+il s'agit de réalisée une application de gestion de la bibliothèque des étudiants de l 'ENSAH.
+
+Cette application a pour objectif de faciliter la saisie des emprunt,ainsi contrôler le temps de chaque emprunt emprunter.
+
+1. 1 Le Module des étudiants :
+
+ce Module permet a l'utilisateur de l'application de saisie les informations qui concerne chaque étudiant :
+-nom
+-prénom
+-CNE
+-CIN
+
+
+
+1.2	Le Module des ouvrages :
+Ce module permet la saisie des ouvrages emprunter par les étudiants ou par les professeurs :
+-Titre de l'ouvrage
+-référence de l'ouvrage
+-Auteur
+
+
+
+	1.3	Le module des professeur :
+Ce module permet la saisie les informations qui concerne les profs :
+
+-Nom
+-Prénom
+-CIN
+
+
+	1.3 Le module des exemplaires :
+Ce module consiste la gestion des exemplaires :
+
+-l'édition
+-la quantité des exemplaire
+
+1.4-Module du paramétrages et d'administration :
+
+Authentification et gestion des habilitations :
+Le systeme n'est accessible que  aux utilisateurs qui ont un login est un mot de passe.
