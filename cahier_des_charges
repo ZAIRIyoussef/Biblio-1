@@ -1,4 +1,4 @@
-------------------------------------------------------------------------
+---------------------------------------------------------------------------
 Vous pouvez modifier n'importe quelle phrase Dans ce document.
 Si vous voulez ajouter quelque choses ou bien supprimer quelque chose.
 Il faut just importer le projet en eclipse puis faite vos modification et finalement
@@ -6,7 +6,7 @@ click droit sur le dossier de projet.
 Cllicker sur team.
 Commit pour commenter la modification que vous avez fait .
 puis push pour uploader le projet sur le depo.
----------------------------------------------------------------------------
+------------------------------------------------------------------------------
 
 Le cahier des charge:
 
